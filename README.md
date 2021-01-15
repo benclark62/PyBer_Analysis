@@ -18,6 +18,7 @@ For PyBer, addressing underserved neighborhoods will be a win-win for the compan
 ![pyber_summary_dataframe](https://github.com/benclark62/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ### Summary
+#### How to begin addressing disparities in ride availability
 Based on this analysis, I would recommend the following steps to begin addressing ride availability among city types:
 
 - **Launch incentive program to increase driver count in rural areas**.  Availability of drivers appears to be the primary contributor in pushing average fares down, which will increase customers' likelihood to use PyBer.
